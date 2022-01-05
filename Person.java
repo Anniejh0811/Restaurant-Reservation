@@ -1,8 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Annie Won
-// Email: jwon23@wisc.edu
-// Notes to Grader: None
-
 /**
  * This class implements Person and store the information about the person .
  * 
