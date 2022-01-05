@@ -1,8 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Annie Won
-// Email: jwon23@wisc.edu
-// Notes to Grader: None
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
