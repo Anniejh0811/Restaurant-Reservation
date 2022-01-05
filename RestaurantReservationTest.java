@@ -1,8 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Annie Won
-// Email: jwon23@wisc.edu
-// Notes to Grader: None
-
 import static org.junit.Assert.assertEquals;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
